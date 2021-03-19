@@ -1,1 +1,1 @@
-# My Collective Whitelist and Black List
+# My Collective Whitelist and Black List.
